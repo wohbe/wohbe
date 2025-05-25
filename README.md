@@ -77,14 +77,6 @@ const robertoCantalejo = {
 ### 🎌 [Animatch](https://github.com/wohbe/Animatch) - Anime Search Application
 *Full-Stack application for assisted anime series search*
 
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/View%20Code-Animatch-181717?style=for-the-badge&logo=github)](https://github.com/wohbe/Animatch)
-[![Stars](https://img.shields.io/github/stars/wohbe/Animatch?style=for-the-badge)](https://github.com/wohbe/Animatch/stargazers)
-[![Issues](https://img.shields.io/github/issues/wohbe/Animatch?style=for-the-badge)](https://github.com/wohbe/Animatch/issues)
-
-</div>
-
 <details>
 <summary>🔍 View Project Details</summary>
 
