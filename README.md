@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Hi, I'm Rober👋
+  # Roberto Cantalejo Ordóñez 👋
   
   ### 🚀 Full Stack Developer
   
@@ -74,8 +74,16 @@ const robertoCantalejo = {
 
 ## 🚀 Featured Project
 
-### 🎌 Anime Search Application
+### 🎌 [Animatch](https://github.com/wohbe/Animatch) - Anime Search Application
 *Full-Stack application for assisted anime series search*
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/View%20Code-Animatch-181717?style=for-the-badge&logo=github)](https://github.com/wohbe/Animatch)
+[![Stars](https://img.shields.io/github/stars/wohbe/Animatch?style=for-the-badge)](https://github.com/wohbe/Animatch/stargazers)
+[![Issues](https://img.shields.io/github/issues/wohbe/Animatch?style=for-the-badge)](https://github.com/wohbe/Animatch/issues)
+
+</div>
 
 <details>
 <summary>🔍 View Project Details</summary>
@@ -185,7 +193,3 @@ const robertoCantalejo = {
 ⭐️ Made with passion by [@wohbe](https://github.com/wohbe)
 
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wohbe)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
